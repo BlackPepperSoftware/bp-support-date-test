@@ -16,6 +16,7 @@
 	<name>Black Pepper Support Date Test</name>
 	<description>Support for testing with Java 7 dates.</description>
 	<url>https://github.com/BlackPepperSoftware/bp-support-date-test</url>
+	<inceptionYear>2014</inceptionYear>
 	
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-date-test.git</connection>
